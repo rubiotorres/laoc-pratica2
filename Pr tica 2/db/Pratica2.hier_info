@@ -1,0 +1,49 @@
+|Pratica2
+SW[0] => ~NO_FANOUT~
+SW[1] => ~NO_FANOUT~
+SW[2] => ~NO_FANOUT~
+SW[3] => ~NO_FANOUT~
+SW[4] => ~NO_FANOUT~
+SW[5] => ~NO_FANOUT~
+SW[6] => ~NO_FANOUT~
+SW[7] => ~NO_FANOUT~
+SW[8] => ~NO_FANOUT~
+SW[9] => ~NO_FANOUT~
+SW[10] => ~NO_FANOUT~
+SW[11] => ~NO_FANOUT~
+SW[12] => ~NO_FANOUT~
+SW[13] => ~NO_FANOUT~
+SW[14] => SW[14].IN1
+SW[15] => SW[15].IN1
+SW[16] => SW[16].IN1
+SW[17] => SW[17].IN1
+LEDG[0] <= dec3to8:conversor.port2
+LEDG[1] <= dec3to8:conversor.port2
+LEDG[2] <= dec3to8:conversor.port2
+LEDG[3] <= dec3to8:conversor.port2
+LEDG[4] <= dec3to8:conversor.port2
+LEDG[5] <= dec3to8:conversor.port2
+LEDG[6] <= dec3to8:conversor.port2
+LEDG[7] <= dec3to8:conversor.port2
+LEDG[8] <= <GND>
+
+
+|Pratica2|dec3to8:conversor
+W[0] => Equal0.IN63
+W[0] => Equal1.IN63
+W[1] => Equal0.IN62
+W[1] => Equal1.IN62
+W[2] => Equal0.IN61
+W[2] => Equal1.IN61
+En => Y[0]$latch.ACLR
+En => Y[1]$latch.ACLR
+Y[7] <= <GND>
+Y[6] <= <GND>
+Y[5] <= <GND>
+Y[4] <= <GND>
+Y[3] <= <GND>
+Y[2] <= <GND>
+Y[1] <= Y[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Y[0] <= Y[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+

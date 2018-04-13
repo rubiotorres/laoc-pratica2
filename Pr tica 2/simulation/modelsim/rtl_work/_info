@@ -1,0 +1,66 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Desktop\Prática 2\simulation\modelsim
+vcontador
+!i10b 1
+!s100 fjIVBc<[80`EXi0mE6z8Y3
+Ic[ISEeRIfmXRSd3XoW3cY0
+VP2Hcd3oG`SX@89MSJgfCV2
+Z1 dC:\Users\Aluno\Desktop\Prática 2\simulation\modelsim
+Z2 w1523641991
+Z3 8C:/Users/Aluno/Desktop/Prática 2/contador.v
+Z4 FC:/Users/Aluno/Desktop/Prática 2/contador.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1523642191.504000
+Z7 !s107 C:/Users/Aluno/Desktop/Prática 2/contador.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Aluno/Desktop/Prática 2|C:/Users/Aluno/Desktop/Prática 2/contador.v|
+!s101 -O0
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work {+incdir+C:/Users/Aluno/Desktop/Prática 2} -O0
+vPratica2
+!i10b 1
+!s100 XUfTh3RP<Td^012QbnOoX1
+IN;U8]PIL1DfGXfbeA:]722
+V2AEgG<HY6JeIA0YkzOJn_2
+R1
+R2
+R3
+R4
+L0 27
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
+n@pratica2
+vregn
+!i10b 1
+!s100 4E0Na7@gdE2HfVcnF@m]D2
+IjAX1d7<@DL?R64WIfYT6B3
+VUc6I3VM5DDQ[zOJ4a2HfK0
+R1
+R2
+R3
+R4
+L0 14
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
